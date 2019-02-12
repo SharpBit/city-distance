@@ -1,0 +1,10 @@
+[package]
+name = "city-distance"
+version = "0.1.0"
+authors = ["SharpBit <31069084+SharpBit@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.7"
+text_io = "0.1.7"
+serde_json = "1.0"
